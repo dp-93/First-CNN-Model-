@@ -1,2 +1,2 @@
 # First-CNN-Model-
-I used CIFER-10 dataset to train this CNN model
+I used CIFAR-10 dataset to train this CNN model
