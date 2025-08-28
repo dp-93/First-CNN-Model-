@@ -19,4 +19,4 @@ The final step was deploying the model as a live, interactive web application us
 ### Interactive Demo
 Here is a demonstration of the final web application in action:
 
-![Live Demo of the CIFAR-10 Classifier](link_to_your_video_or_gif.gif)
+![Live Demo of the CIFAR-10 Classifier](https://github.com/dp-93/First-CNN-Model-/edit/main/CNN Model Demo.mp4)
